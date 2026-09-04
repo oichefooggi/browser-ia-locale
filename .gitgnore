@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+memoria/
+navigazione/
+ricerca_*/
+diario_globale.json
+*.txt
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
